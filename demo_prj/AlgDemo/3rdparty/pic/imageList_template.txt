@@ -1,0 +1,2 @@
+bd1.bmp
+bd2.bmp
